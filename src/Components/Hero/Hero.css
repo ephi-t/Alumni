@@ -1,0 +1,166 @@
+/* .hero {
+  width: 100%;
+  min-height: 100vh;
+  background: linear-gradient(rgba(8, 0, 58, 0.7), rgba(8, 0, 58, 0.7)),
+    url("../../assets/hero.png");
+  background-size: cover;
+  background-position: center;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+body {
+  background: #f5f5f5;
+}
+
+.btn {
+  background: white;
+  color: #212121;
+  padding: 14px 25px;
+  font-size: 16px;
+  border-radius: 30px;
+  cursor: pointer;
+  border: 0;
+  outline: 0;
+}
+
+.hero-text {
+  text-align: center;
+  max-width: 800px;
+}
+
+.hero-text h1 {
+  font-size: 60px;
+  font-weight: 600;
+}
+
+.hero-text p {
+  max-width: 700px;
+  margin: 10px auto 20px;
+  line-height: 1.4;
+}
+
+.btn2 {
+  padding-left: 100px;
+}
+
+.buttons {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+}
+
+.section {
+  margin: 80px auto;
+  width: 90%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.section1 img {
+  width: 100%;
+  border-radius: 10px;
+  display: block;
+}
+
+.section1 {
+  flex-basis: 31%;
+  position: relative;
+}
+
+.caption {
+  border-radius: 10px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background: rgba(0, 15, 152, 0.3);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  color: white;
+  cursor: pointer;
+  opacity: 0;
+  padding-top: 70%;
+  transition: 0.4s;
+}
+
+.section1:hover .caption {
+  opacity: 1;
+  padding-top: 0;
+}
+
+.caption img {
+  width: 60px;
+  margin-bottom: 10px;
+}
+
+.title {
+  text-align: center;
+  color: #212ea0;
+  font-size: 15px;
+  font-weight: 600;
+  text-transform: uppercase;
+  margin: 70px 0 30px;
+}
+
+.title h2 {
+  font-size: 32px;
+  color: #000f38;
+  margin-top: 5px;
+  text-transform: none;
+}
+
+.about {
+  margin: 100px auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 90%;
+}
+
+.about-left {
+  flex-basis: 40%;
+}
+
+.about-right {
+  flex-basis: 56%;
+}
+
+.about-img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.about h1 {
+  font-weight: 600;
+  font-size: 35px;
+  color: #000f38;
+  margin: 10px 0;
+  max-width: 400px;
+}
+
+.about p {
+  color: #676767;
+  margin-bottom: 15px;
+} */
+/* <div className="hero container1">
+        <div className="hero-text">
+          <h1>Welcome to DBU Alumni Management System</h1>
+          <p>
+            Connect with a vibrant community of past and present students,
+            explore job opportunities, and engage in events that bring us closer
+            together. our platform is designed to keep you connected to the
+            heart of your alma mater. Together, we build a future rooted in
+            shared experiences and lifelong relationships.
+          </p>
+          <div className="buttons">
+            <button className="btn"> Explore more</button>
+            <button className="btn"> Explore more</button>
+          </div>
+        </div>
+      </div> */
